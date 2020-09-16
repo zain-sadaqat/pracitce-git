@@ -1,0 +1,5 @@
+1. git config --list
+2. git config --global user.email "zainsadaqat98@gmail"	
+3. git remote -v ( display servers name)
+4. git remote add zain	(add server)
+5. git branch (display branch)
